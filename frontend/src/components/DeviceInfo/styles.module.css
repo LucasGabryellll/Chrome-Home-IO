@@ -1,0 +1,25 @@
+.description {
+  font-weight: 500;
+}
+
+.content-info {
+  display: flex;
+  
+  align-items: center;
+  justify-content: center;
+
+  gap: 4px;
+}
+
+.icon-status {
+  height: 6px;
+  width: 6px;
+
+  border-radius: 50%;
+
+  background-color: #21c560;
+}
+
+.description-status {
+  font-size: small;
+}
